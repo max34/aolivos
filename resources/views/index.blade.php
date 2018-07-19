@@ -20,18 +20,20 @@
         </div>
         <div class="content">
             <h3>Adan Olivos</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et
-                vestibulum nulla. Sed varius ante vitae tellus bibendum, in blandit nulla
-                dignissim. Ut ac volutpat ipsum. Fusce in aliquet ipsum, eget tempor massa.
-                <br>
-                Praesent vitae dolor non eros scelerisque accumsan. Sed tincidunt cursus eros,
-                eu sagittis tellus lobortis et. Mauris sit amet ex metus. Nam consectetur elit
-                nec mi tempor, at placerat ligula mattis. Aliquam sed dignissim risus,
-                quis cursus libero. Suspendisse nec rutrum justo. Cras at feugiat neque.
-                In iaculis enim sed massa fermentum, vitae finibus orci feugiat. Sed nec
-                lacinia ligula. In leo diam, dapibus id nibh sed, efficitur rutrum velit.
-                Cras ornare scelerisque elit at accumsan.
-                Etiam quis lacus molestie, ornare magna vel, faucibus nulla.</p>
+            <p>
+                As a recent Computer Graduate from New Jersey City University, I bring to the table three years in costumer
+                service and three years in freelance in web development.
+            </p>
+            <br>
+            <p>
+                Offering creative solutions on web development using skills in HTML, CSS, JavaScript, and PHP, with
+                plenty understanding using databases such as SQL and Mysql. I also understand the basics of Search
+                Optimization Engines and marketing strategies.
+            </p>
+            <br>
+            <p> As a web developer, I understand Agile development process, and write code accordingly to industry standards,
+                as well as code reusability.
+            </p>
         </div>
     </div>
 
@@ -205,11 +207,11 @@
             <span><i class="fa fa-share-square fa-4x"></i></span>
         </div>
         <div class="content">
-            <div class="dual-col">
-                <span><i class="fab fa-facebook-square fa-4x"></i></span>
-                <span><i class="fab fa-google-plus-square fa-4x"></i></span>
-                <span><i class="fab fa-twitter-square fa-4x"></i></span>
-                <span><i class="fab fa-github-square fa-4x"></i></span>
+            <div class="dual-col social">
+                <span><a href="https://www.facebook.com/aolivos1" target="_blank"><i class="fab fa-facebook-square fa-4x"></i></a></span>
+                <span><a href="https://plus.google.com/+adanolivos" target="_blank"><i class="fab fa-google-plus-square fa-4x"></i></a></span>
+                <span><a href="https://twitter.com/olivosAdan" target="_blank"><i class="fab fa-twitter-square fa-4x"></i></a></span>
+                <span><a href="https://github.com/max34" target="_blank"><i class="fab fa-github-square fa-4x"></i></a></span>
             </div>
         </div>
     </div>
