@@ -21,7 +21,7 @@
         <div class="content">
             <h3>Adan Olivos</h3>
             <p>
-                As a recent Computer Graduate from New Jersey City University, I bring to the table three years in costumer
+                As a recent Computer Graduate from New Jersey City University, I bring to the table three years in customer
                 service and three years in freelance in web development.
             </p>
             <br>
