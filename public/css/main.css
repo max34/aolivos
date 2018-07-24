@@ -179,6 +179,12 @@ body{
     position:absolute;
     line-height: inherit;
 }
+
+.progress-title-right{
+    float: right;
+    font-style: italic;
+    font-weight: bold;
+}
 .social span a{
     color:#fff;
 }

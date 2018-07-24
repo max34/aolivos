@@ -211,7 +211,6 @@
                 <span><a href="https://www.facebook.com/aolivos1" target="_blank"><i class="fab fa-facebook-square fa-4x"></i></a></span>
                 <span><a href="https://plus.google.com/+adanolivos" target="_blank"><i class="fab fa-google-plus-square fa-4x"></i></a></span>
                 <span><a href="https://twitter.com/olivosAdan" target="_blank"><i class="fab fa-twitter-square fa-4x"></i></a></span>
-                <span><a href="https://github.com/max34" target="_blank"><i class="fab fa-github-square fa-4x"></i></a></span>
             </div>
         </div>
     </div>
