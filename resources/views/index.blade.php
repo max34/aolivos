@@ -94,15 +94,30 @@
     </div>
 </div>
 
-<!-- Projects -->
+<!-- Freelance -->
 <div class="section bg-blue">
     <div class="section-content">
         <div class="title">
-            <h3>Projects</h3>
+            <h3>Freelance Work</h3>
             <br>
             <span><i class="fa fa-briefcase fa-5x"></i></span>
         </div>
         <div class="content">
+            <div class="panel">
+                <div class="img-box">
+                    <div class="clearfix">
+                        <div class="image-container">
+                            <img src="{{asset('img/PassaicVisionCenter.png')}}">
+                        </div>
+                    </div>
+                    <h3>Passaic Vision Center</h3>
+                    <hr>
+                    <p>Freelance project for an Optometrist. This project help him be known
+                    by the Passaic County Community. It implemented S.E.O strategy, Agile development
+                        process, and budget planning. <a href="http://gentle-retreat-33476.herokuapp.com/" target="_blank"><i class="fa fa-share-square"></i></a> </p>
+
+                </div>
+            </div>
             <div class="panel">
                 <div class="img-box">
                     <div class="clearfix">
@@ -113,11 +128,21 @@
                     <h3>Clifton Eye Specialists</h3>
                     <hr>
                     <p>Freelance project for an Optometrist. This project help him be known
-                    by the Passaic County Community. It implemented S.E.O strategy, Agile development
+                        by the Passaic County Community. It implemented S.E.O strategy, Agile development
                         process, and budget planning. <a href="http://warm-ridge-65957.herokuapp.com" target="_blank"><i class="fa fa-share-square"></i></a> </p>
 
                 </div>
             </div>
+        </div>
+    </div>
+</div>
+
+<div class="section bg-white">
+    <div class="section-content">
+        <div class="title">
+            <h3>projects</h3>
+        </div>
+        <div class="content">
             <div class="panel">
                 <div class="img-box">
                     <div class="clearfix">
@@ -142,15 +167,14 @@
                     <hr>
                     <p>M.D. Directory is a personal project that helps users to seek for local medical help.
                         also it helps doctors to be in touch with their patients.
-                    <a href="http://fast-oasis-24569.herokuapp.com/" target="_blank"><i class="fa fa-share-square"></i></a></p>
+                        <a href="http://fast-oasis-24569.herokuapp.com/" target="_blank"><i class="fa fa-share-square"></i></a></p>
                 </div>
             </div>
+        </div>
     </div>
 </div>
-</div>
-
 <!-- Skills -->
-<div class="section bg-white">
+<div class="section bg-blue">
     <div class="section-content">
         <div class="title">
             <h3>Skills</h3>
@@ -199,7 +223,7 @@
 </div>
 
 <!-- Social -->
-<div class="section bg-blue">
+<div class="section">
     <div class="section-content">
         <div class="title">
             <h3>Social</h3>
