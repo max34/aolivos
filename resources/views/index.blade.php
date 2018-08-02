@@ -136,11 +136,13 @@
         </div>
     </div>
 </div>
-
+<!-- projects -->
 <div class="section bg-white">
     <div class="section-content">
         <div class="title">
             <h3>projects</h3>
+            <br>
+            <span><i class="fas fa-project-diagram fa-5x"></i></span>
         </div>
         <div class="content">
             <div class="panel">
@@ -235,6 +237,7 @@
                 <span><a href="https://www.facebook.com/aolivos1" target="_blank"><i class="fab fa-facebook-square fa-4x"></i></a></span>
                 <span><a href="https://plus.google.com/+adanolivos" target="_blank"><i class="fab fa-google-plus-square fa-4x"></i></a></span>
                 <span><a href="https://twitter.com/olivosAdan" target="_blank"><i class="fab fa-twitter-square fa-4x"></i></a></span>
+                <span><a href="https://linkedin.com/in/adan-olivos-57189448" target="_blank"><i class="fab fa-linkedin fa-4x"></i></a></span>
             </div>
         </div>
     </div>
