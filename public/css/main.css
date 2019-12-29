@@ -2,9 +2,6 @@
     margin:0;
     padding:0;
 }
-body{
-    font-family: 'Menlo', Helvetica, SansSerif ;
-}
 .main-section{
     position:relative;
     color:#fff;
@@ -21,7 +18,6 @@ body{
     background-color:#fff;
 }
 .bg-blue{
-    background-color:#2d3bc8;
     background: -webkit-linear-gradient(to bottom, rgb(34, 125, 170), rgb(81, 172, 205));
     background: linear-gradient(to bottom, rgb(34, 125, 170), rgb(81, 172, 205));
 }
@@ -173,8 +169,8 @@ body{
 }
 .w3-progressbar{
     background:rgb(144,175,197);
-    background: -webkit-linear-gradient(left, rgba(80, 81, 96, 1) 0%, rgba(42, 49, 49, 1) 100%);
-    Background:linear-gradient(to right, rgba(80, 81, 96, 1) 0%, rgba(42, 49, 49, 1) 100% );
+    background: -webkit-linear-gradient(left, rgba(104,130,158,1) 0%, rgba(80, 81, 96, 1) 100%);
+    Background:linear-gradient(to right, rgba(104,130,158,1) 0%, rgba(80, 81, 96, 1) 100% );
     height:100%;
     position:absolute;
     line-height: inherit;
