@@ -12,8 +12,8 @@
 </div>
 <!-- about -->
 <div class="container-fluid bg-white">
+<h2>About me</h2>
     <div class="row">
-        <h2>About me</h2>
         <div class="clearfix"></div>
         <p class="paragraph">
             As a Senior Systems Engineer, I'll bring to the table a year plus of experience in Access Management, Directory Services, &amp; Identity Management, 
@@ -67,23 +67,25 @@
 </div>
 <!-- Education -->
 <div class="container-fluid bg-white">
+<h2>Education</h2>
     <div class="row">
-    <h2>Education</h2>
     <div class="clearfix"></div>
         <!--<h3>Education</h3>-->
         <div class="col-md-12">
             <div class="card">
                 <div class="card-body">
-                    <div class="card-title"> NJCU</div>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <div class="card-title"> New Jersey City University</div>
+                    <em>09/2014 - 01/2018</em>
+                    <p class="card-text">Bachelors Degree in Computer Science</p>
                 </div>
             </div>
         </div>
         <div class="col-md-12">
             <div class="card">
             <div class="card-body">
-                    <div class="card-title"> NJCU</div>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <div class="card-title"> Hudson County Community College</div>
+                    <em>09/2006 - 05/2011</em>
+                    <p class="card-text">Associates Degree in Computer Science</p>
                 </div>
             </div>
         </div>
@@ -94,10 +96,11 @@
 <div class="container-fluid bg-white">
     <h2>Experience</h2>
     <div class="section-content">
+        <div class="clearfix"></div>
         <div class="ex-content">
         <div class="ex-box">
                 <h3>Hub City Media</h3>
-                <em class="location">South Plainfiel, NJ.</em>
+                <em class="location">South Plainfield, NJ.</em>
                 <em class="date">08/2019 - Present</em>
                 <p>Web Development</p>
             </div>
@@ -124,8 +127,8 @@
 
 <!-- Freelance -->
 <div class="container-fluid bg-white">
+<h2>Freelance</h2>
     <div class="section-content">
-        <h2>Freelance</h2>
         <div class="row">
             <div class="col-md-6">
                 <div class="card">
