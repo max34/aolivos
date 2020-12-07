@@ -14,7 +14,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 800px){
   .container{
     height:100% !important;
   }
@@ -27,6 +27,10 @@ body {
     width: 100% !important;
   }
   .section-content > div{
+    width: 100% !important;
+  }
+  .skills-table{
+    margin-left:0 !important;
     width: 100% !important;
   }
   .card-body{
@@ -140,11 +144,7 @@ body {
   float: left;
 }
 .card-body{
-  position:relative;
-  width: 95%;
   text-align: center;
-  bottom: 200px;
-  background-color: rgba(255,255,255,0.7);
 }
 .card{
   margin-top: 10px;
