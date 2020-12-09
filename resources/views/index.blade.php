@@ -130,7 +130,7 @@
 </div>
 
 
-<!-- Freelance -->
+<!-- Freelance & Personal Projects -->
 
 <div class="project-container">
 <h2>Freelance</h2>
@@ -139,9 +139,8 @@
             <img class="card-img-top" src="{{asset('img/PassaicVisionCenter.png')}}">
             <div class="card-body">
                 <div class="card-title">Passaic Vision Center</div>
-                <p>Freelance project for an Optometrist. This project help him be known
-                    by the Passaic County Community. It implemented S.E.O strategy, Agile development
-                    process, and budget planning. <a href="http://gentle-retreat-33476.herokuapp.com/" target="_blank">visit page</a> 
+                <p><strong>Passaic Vision Center</strong> is a freelance project for an ophthalmologists office. They needed a website to showcase and promote their services to the community.
+                They also needed the implementation of google analytics to keep track of their website visitors and their demographics. Visit <a href="http://gentle-retreat-33476.herokuapp.com/" target="_blank"> Passaic Vision Center</a> 
                 </p>
             </div>
         </div>
@@ -149,27 +148,25 @@
             <img class="card-img-top" src="{{asset('img/CliftonEyeSpecialists.png')}}">
             <div class="card-body">
                 <div class="card-title">Clifton Eye Specialists</div>
-                <p>Freelance project for an Optometrist. This project help him be known
-                    by the Passaic County Community. It implemented S.E.O strategy, Agile development
-                    process, and budget planning. <a href="http://warm-ridge-65957.herokuapp.com" target="_blank">visit page</i></a> 
+                <p><Strong>Clifton Eye Especialist</Strong> is an extension of Passaic Vision Center and the base  website to showcase their service of both locations, as they were consolidating 
+                into a single organization. Website included google analytics to keep track of their visitors demographics and a SEO campaing. Vist <a href="http://warm-ridge-65957.herokuapp.com" target="_blank">Clifton Eye Especialist</i></a> 
                 </p>
             </div>
         </div>
     </div>
 
    
-    <h2>Projects</h2>
-    <div class="section-content">
+    <h2>Project</h2>
+    <div class="section-content-project">
         <div class="card">
             <img class="card-img-top" src="{{asset('img/GetFit.png')}}">
             <div class="card-body">    
                 <div class="title"> Get Fit</div>
-                <p>A personal project that will help an user to keep his or hers physical
-                    goals. <a href="http://polar-escarpment-87243.herokuapp.com/" target="_blank">visit page</a>
+                <p><Strong>Get Fit</Strong> is a on going personal project that will keep track of a users fitness goals. Visit <a href="http://polar-escarpment-87243.herokuapp.com/" target="_blank">Get Fit</a>
                 </p>
             </div>
         </div>
-        <div class="card">
+        <!--<div class="card">
             <img class="card-img-top" src="{{asset('img/MdDirectory.png')}}">
             <div class="card-body">
                 <div class="title"> Md. Directory</div>
@@ -180,10 +177,5 @@
             </div>
         </div>
     </div>
-</div>
-<!-- projects -->
-<!--
-
-
--->
+</div>-->
 @endsection

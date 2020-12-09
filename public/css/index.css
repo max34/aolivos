@@ -15,6 +15,12 @@ body {
   background-attachment: fixed;
 }
 @media only screen and (max-width: 800px){
+  .intro_container{
+    font-size: 22px !important;
+  }
+  .intro_container > p{
+    margin:5px !important;
+  }
   .container{
     height:100% !important;
   }
@@ -35,6 +41,10 @@ body {
   }
   .card-body{
     bottom:0 !important;
+  }
+  .section-content-project {
+    width:100% !important;
+    left: 400px !important;
   }
 }
 .intro_container{
@@ -137,7 +147,7 @@ body {
 
 }
 .section-content{
-  margin-left: 5%;
+  margin: 1%;
 }
 .section-content > div{
   width: 50%;
@@ -152,5 +162,12 @@ body {
   color:#1272a9;
 }
 .card-img-top{
-  width: 95%;
+  width: 99%;
+}
+.section-content-project{
+  position: relative;
+  top: 200px;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 50%;
 }
