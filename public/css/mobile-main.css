@@ -1,0 +1,15 @@
+p {  
+    font-size: 14px;   
+}
+h2{
+    font-size: 1.5rem;
+}
+h3{
+    font-size: 1.25rem;
+}
+.card-body{
+    padding:0;
+}
+.col-sm-12{
+    padding:0;
+}
